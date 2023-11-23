@@ -74,7 +74,7 @@ for i in range(len(mass) - 1):
 mass.remove(mass[-1])
 mass.append(a)
 print(mass)
-
+print("я думать это работать")
 
 
 
